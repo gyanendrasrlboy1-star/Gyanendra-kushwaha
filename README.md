@@ -1,5 +1,5 @@
-# Gyanendra-kushwaha
-This is my first Git Repository
-<br>
-The Raja kushwaha
-
+#include<stdio.h>
+int mian (){
+printf("Hello Wolrd....");
+return 0;
+}
